@@ -1,9 +1,1 @@
-@"
-[build]
-  command = "npm run build"
-  publish = "build"
-  ignore = "git submodule"  # Explicitly disable submodules
 
-[build.environment]
-  NODE_VERSION = "18"
-"@ | Out-File -FilePath netlify.toml -Encoding utf8
