@@ -119,7 +119,7 @@ const Contact = () => {
                 <h3 className="text-lg font-medium mb-3 text-gray-900">Thane Office</h3>
                 <div className="flex items-start space-x-3 text-gray-700">
                   <MapPin className="text-corporate-500 shrink-0 mt-1" size={20} />
-                  <p>3 dipak nivas, hirubama smurti, vitava, Belapur road, Chhatrapati Shivaji Chowk, Thane 400605</p>
+                  <p>Siddharth Chamber, Pathare Kshatriya Hall, opposite Gaudevi Maidana, Office 1, Thane West 400602</p>
                 </div>
               </div>
 

@@ -95,7 +95,7 @@ const Brochures = () => {
                   </div>
                   <div>
                     <p className="font-medium">Address 2</p>
-                    <p>3 Dipak Nivas, Hirubama Smurti, Vitava, Belapur Road, Chhatrapati Shivaji Chowk, Thane 400605</p>
+                    <p>Siddharth Chamber, Pathare Kshatriya Hall, opposite Gaudevi Maidana, Office 1, Thane West 400602</p>
                   </div>
                 </div>
               </div>
